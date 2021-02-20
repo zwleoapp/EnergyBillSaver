@@ -1,3 +1,4 @@
+
 {
 "applinks": {
 		"details": [{
@@ -9,9 +10,7 @@
     },
 
    "webcredentials": {
-      "apps": [ "598T6R4FJ2.ZW.App.Energy-Saver-Calculator""ABCDE12345.com.example.app" ]
-   },
-    "appclips": {
-        "apps": ["598T6R4FJ2.ZW.App.Energy-Saver-Calculator.clip"]
-    }
+      "apps": [ "598T6R4FJ2.ZW.App.Energy-Saver-Calculator" ]
+   }
+
 }
