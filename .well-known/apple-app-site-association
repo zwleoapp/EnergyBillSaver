@@ -1,13 +1,4 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": {
-            "9JA89QQLNQ.com.apple.wwdc": {
-                "paths": [
-                    "/wwdc/news/",
-                    "/videos/wwdc/2015/*"
-                ]
-            }
-        }
+{ "appclips": {
+        "apps": [ "1553672235.ZW.App.Energy-Saver-Calculator" ]
     }
 }
