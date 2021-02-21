@@ -1,5 +1,5 @@
 layout: none
-permalink: /.well-known/apple-developer-domain-association.txt
+permalink: /.well-known/apple-developer-domain-association
 
 {
 "applinks": {
