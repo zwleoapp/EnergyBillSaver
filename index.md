@@ -1,3 +1,12 @@
+
+Welcome to my recipes!
+
+<form action="welcome.html" >
+<input name="username" /><br/>
+<input type="password" name="password"/><br/>
+<input type="submit" ?>
+</form>
+
 layout: none
 permalink: /.well-known/apple-developer-domain-association
 
